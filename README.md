@@ -1,3 +1,7 @@
+<p align="center">
+<img width="500" height="500" alt="Openly" src="https://github.com/user-attachments/assets/27e88819-9d61-4bc2-ae11-ac089a743fb0" alt="Logo"/>
+</p>
+
 # Openly - Open source Grammarly
 
 A Vale linter style that attempts to emulate some features of the commercial, and closed source, Grammarly. More to come.
